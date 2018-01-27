@@ -2,7 +2,7 @@ var shape = "circle";
 var fillColor = "yellow";
 var background = "#eee";
 var canvasID = "display-canvas";
-var displayInterval = 300;
+var displayInterval = 1000;
 var inputString = "welcome.";
 
 var canvas = new fabric.StaticCanvas(canvasID);
